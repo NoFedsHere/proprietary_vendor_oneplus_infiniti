@@ -1688,6 +1688,7 @@ PRODUCT_PACKAGES += \
     libcamxoemsatwrapper \
     com.oplus.mcx.linearmapper \
     com.oplus.node.preview.v2 \
+    camera.oemlayer.v2 \
     lib2DSlender \
     libAECParamParser \
     libAF \
