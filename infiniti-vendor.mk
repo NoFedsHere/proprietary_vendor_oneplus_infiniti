@@ -1841,6 +1841,7 @@ PRODUCT_PACKAGES += \
     libremosaiclib \
     libsat \
     libsaveshaderbin \
+    libsensorbridge \
     libsharebuffer \
     libsharebuffer_impl \
     libssd_det \
