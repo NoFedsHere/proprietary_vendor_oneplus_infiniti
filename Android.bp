@@ -13216,7 +13216,7 @@ cc_prebuilt_library_shared {
                 "android.frameworks.sensorservice@1.0",
                 "libsensorbridge",
                 "libbinder_ndk",
-                "vendor.oplus.hardware.charger-V8-ndk",
+                "vendor.oplus.hardware.charger-V9-ndk",
                 "liboutils",
                 "libocompression",
                 "vendor.oplus.hardware.commondcs-V1-ndk",
